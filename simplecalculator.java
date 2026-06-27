@@ -6,6 +6,7 @@ public class simplecalculator {
 
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();
+        System.out.println("You entered: " + num1);
 
         System.out.print("Enter second number: ");
         double num2 = sc.nextDouble();
