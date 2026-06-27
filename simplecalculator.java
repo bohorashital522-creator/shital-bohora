@@ -10,7 +10,7 @@ public class simplecalculator {
         System.out.print("Enter second number: ");
         double num2 = sc.nextDouble();
 
-        System.out.print("Enter operator (+, -, *, /): ");
+        System.out.print("Enter operator (+, -, *, / ): ");
         char operator = sc.next().charAt(0);
 
         double result;
