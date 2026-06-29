@@ -48,3 +48,4 @@ public class simplecalculator {
         sc.close();
     }
 }
+
